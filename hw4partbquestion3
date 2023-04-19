@@ -1,0 +1,7 @@
+    Approach T_Old T_New Speedup
+    Serial   237   237   1
+    Multi    237   240   0.99
+    Many     237   59    4.02
+    
+    
+    Many was done in python and the algorithm is not correct as it fails to consider multiple ORFs. However, the programs are all consistently wrong so the speedups should be accurate.
